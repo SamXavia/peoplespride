@@ -1,16 +1,12 @@
+img {
+  border-radius: 25px;
+}
+
 body {
-  background: linear-gradient(to top, #323232, #272727);
-  color: white;
   text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100vh;
   margin: 0;
-}
-
-a {
-  color: pink;
-  text-decoration: none;
-  font-weight: bold;
 }
